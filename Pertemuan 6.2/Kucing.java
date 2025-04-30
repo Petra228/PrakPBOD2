@@ -5,7 +5,7 @@ class Kucing extends Anabul {
 
     @Override
     public void bersuara() {
-        System.out.println(nama + "bersuara seperti meong");
+        System.out.println(nama + " bersuara seperti meong");
     }
 
     @Override
