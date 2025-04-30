@@ -5,7 +5,7 @@ class Anjing extends Anabul {
 
     @Override
     public void bersuara() {
-        System.out.println(nama + "bersuara seperti guk-guk");
+        System.out.println(nama + " bersuara seperti guk-guk");
     }
 
     @Override
