@@ -5,7 +5,7 @@ class Burung extends Anabul {
 
     @Override
     public void bersuara() {
-        System.out.println(nama + "bersuara seperti cuit");
+        System.out.println(nama + " bersuara seperti cuit");
     }
 
     @Override
