@@ -1,9 +1,4 @@
-public class BangunDatar {
-    public double hitungLuas() {
-        return 0;
-    }
-
-    public double hitungKeliling() {
-        return 0;
-    }
+public abstract class BangunDatar {
+    public abstract double hitungLuas();
+    public abstract double hitungKeliling();
 }
