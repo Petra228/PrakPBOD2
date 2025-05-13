@@ -9,6 +9,9 @@ public class BangunDatarGenerik<T extends BangunDatar> {
         return bangunDatar.hitungLuas();
     }
 
+    public T get(){
+        return bangunDatar;
+    }
     public double hitungKeliling() {
         return bangunDatar.hitungKeliling();
     }
